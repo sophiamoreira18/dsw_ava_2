@@ -56,6 +56,10 @@ Classes:
     - `http://localhost:8080/codigos`
     - `http://localhost:8080/erro`
 
+4. Exemplos:
+![uma-api](image/umaapi.png)
+![codigos](image/codigos.png )
+![erro](image/erro.png)
 ---
 
 ## Requisitos
