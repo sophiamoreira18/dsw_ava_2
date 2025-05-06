@@ -1,0 +1,14 @@
+{
+    "name": "sophia.moreira/dsw_ava_2",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Sophia",
+            "email": "sophia.moreira@alunos.sc.senac.br"
+        }
+    ]
+}
